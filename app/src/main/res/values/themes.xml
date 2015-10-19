@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyAppTheme" parent="MyAppTheme.Base"/>
+
+    <style name="MyAppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/blue</item>
+        <item name="android:colorPrimaryDark">@color/blue</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:popupBackground">@color/blue</item>
+        <item name="android:windowBackground">@color/blue</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyWorkoutTimer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="timer_title">Workout</string>
+    <string name="timer_message">Tap to start</string>
+    <string name="title_activity_setting">SettingActivity</string>
+
+    <string name="sets_and_times">Sets and Times</string>
+    <string name="rest_time">Rest Time</string>
+    <string name="workout_time">Workout Time</string>
+    <string name="ready_time">Ready Time</string>
+    <string name="number_of_sets">Number of Sets</string>
+
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="hint_time">Secs</string>
+    <string name="hint_number_sets">Sets</string>
+</resources>
